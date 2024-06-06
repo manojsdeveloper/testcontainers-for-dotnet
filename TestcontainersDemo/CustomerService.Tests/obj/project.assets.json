@@ -6172,11 +6172,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/manoj/Documents/DotNet/testcontainers-for-dotnet/TestcontainersDemo/CustomerService.Tests/CustomerService.Tests.csproj",
+      "projectUniqueName": "/Volumes/developer/DotNet/ test/testcontainers-for-dotnet/TestcontainersDemo/CustomerService.Tests/CustomerService.Tests.csproj",
       "projectName": "CustomerService.Tests",
-      "projectPath": "/Users/manoj/Documents/DotNet/testcontainers-for-dotnet/TestcontainersDemo/CustomerService.Tests/CustomerService.Tests.csproj",
+      "projectPath": "/Volumes/developer/DotNet/ test/testcontainers-for-dotnet/TestcontainersDemo/CustomerService.Tests/CustomerService.Tests.csproj",
       "packagesPath": "/Users/manoj/.nuget/packages/",
-      "outputPath": "/Users/manoj/Documents/DotNet/testcontainers-for-dotnet/TestcontainersDemo/CustomerService.Tests/obj/",
+      "outputPath": "/Volumes/developer/DotNet/ test/testcontainers-for-dotnet/TestcontainersDemo/CustomerService.Tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/manoj/.nuget/NuGet/NuGet.Config"
@@ -6191,8 +6191,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/manoj/Documents/DotNet/testcontainers-for-dotnet/TestcontainersDemo/CustomerService/CustomerService.csproj": {
-              "projectPath": "/Users/manoj/Documents/DotNet/testcontainers-for-dotnet/TestcontainersDemo/CustomerService/CustomerService.csproj"
+            "/Volumes/developer/DotNet/ test/testcontainers-for-dotnet/TestcontainersDemo/CustomerService/CustomerService.csproj": {
+              "projectPath": "/Volumes/developer/DotNet/ test/testcontainers-for-dotnet/TestcontainersDemo/CustomerService/CustomerService.csproj"
             }
           }
         }

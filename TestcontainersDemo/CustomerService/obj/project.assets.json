@@ -126,11 +126,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/manoj/Documents/DotNet/testcontainers-for-dotnet/TestcontainersDemo/CustomerService/CustomerService.csproj",
+      "projectUniqueName": "/Volumes/developer/DotNet/ test/testcontainers-for-dotnet/TestcontainersDemo/CustomerService/CustomerService.csproj",
       "projectName": "CustomerService",
-      "projectPath": "/Users/manoj/Documents/DotNet/testcontainers-for-dotnet/TestcontainersDemo/CustomerService/CustomerService.csproj",
+      "projectPath": "/Volumes/developer/DotNet/ test/testcontainers-for-dotnet/TestcontainersDemo/CustomerService/CustomerService.csproj",
       "packagesPath": "/Users/manoj/.nuget/packages/",
-      "outputPath": "/Users/manoj/Documents/DotNet/testcontainers-for-dotnet/TestcontainersDemo/CustomerService/obj/",
+      "outputPath": "/Volumes/developer/DotNet/ test/testcontainers-for-dotnet/TestcontainersDemo/CustomerService/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/manoj/.nuget/NuGet/NuGet.Config"
